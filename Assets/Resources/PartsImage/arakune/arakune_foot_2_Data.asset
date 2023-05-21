@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: arakune_foot_2_Data
+  m_EditorClassIdentifier: 
+  dataName: arakune_foot_2
+  dragonBonesJSON: {fileID: 4900000, guid: 36f8c370a5499b943b2665ef9660de1a, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: d62beb9ac333155439f56b2ceb97b222, type: 3}
+    texture: {fileID: 2800000, guid: 7952e7e8d2878294bb6dc6d0d8b6ccab, type: 3}
+    material: {fileID: 2100000, guid: dbab47d26474f0146b06554eed7d54ff, type: 2}
+    uiMaterial: {fileID: 0}

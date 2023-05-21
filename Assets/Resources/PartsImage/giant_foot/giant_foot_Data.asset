@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: giant_foot_Data
+  m_EditorClassIdentifier: 
+  dataName: giant_foot
+  dragonBonesJSON: {fileID: 4900000, guid: 146b837c8e52ff944acd3f4ba44505e3, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: d9427dfc6563c294799faa8b7c6f6115, type: 3}
+    texture: {fileID: 2800000, guid: fefb166f2e2355c439944285060a6f44, type: 3}
+    material: {fileID: 2100000, guid: c4b3d97738243654d8ad6d5f111186e0, type: 2}
+    uiMaterial: {fileID: 0}
